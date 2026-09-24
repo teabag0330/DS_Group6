@@ -1,4 +1,3 @@
-Markdown
 # 🔍 NCCU DS Term Project - Group 6
 
 > **小組成員**：[成員 1]、[成員 2]、[成員 3]  
